@@ -27,3 +27,14 @@
 *.exe
 *.out
 *.app
+docker-include
+
+# CMake
+CMakeCache.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CMakeFiles
+
